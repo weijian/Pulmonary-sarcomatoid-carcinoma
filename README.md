@@ -4,6 +4,7 @@ Department of Pathology, Guangzhou Huayin Medical Laboratory Center, Guangzhou, 
 
 Correspondence: Jan Wei, BM, Associate Chief Physician 
 Department of Pathology Guangzhou Huayin Medical Laboratory Center Guangzhou, Guangdong Province, China
+
  Email: [weijianhualai@gmail.com]
 
  
