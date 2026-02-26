@@ -5,6 +5,8 @@ Department of Pathology, Guangzhou Huayin Medical Laboratory Center, Guangzhou, 
 Correspondence: Jan Wei, BM, Associate Chief Physician 
 Department of Pathology Guangzhou Huayin Medical Laboratory Center Guangzhou, Guangdong Province, China
  Email: [weijianhualai@gmail.com]
+
+ 
 **Abstract**
 
 Pulmonary sarcomatoid carcinoma (PSC) is a rare and aggressive subtype of non-small cell lung cancer (NSCLC), accounting for approximately 0.1-0.4% of all lung malignancies. The diagnosis of PSC on small biopsy specimens presents significant challenges due to its morphological overlap with reactive spindle cell proliferations and other mesenchymal neoplasms. We report a case of a 74-year-old woman who presented with a left upper lobe lung mass initially misinterpreted as an inflammatory necrotic lesion on needle biopsy. The tumor was composed of small, atypical spindle cells with subtle nuclear atypia embedded in an inflammatory and necrotic background. Initial immunohistochemistry revealed CK(+), TTF-1(+), Napsin A(-), CK7(-), and SMA(-), which raised diagnostic uncertainty. Supplementary immunohistochemical staining demonstrated Vimentin(+), CAM5.2(+), p53(+, 60%), and ALK(-), supporting the diagnosis of pulmonary sarcomatoid carcinoma with adenocarcinoma differentiation. This case highlights the morphological pitfalls in diagnosing PSC on needle biopsy and emphasizes the critical role of a comprehensive immunohistochemical panel in establishing the correct diagnosis. We review the current WHO classification, NCCN guidelines, and recent literature on the immunohistochemical and molecular characteristics of PSC, with particular attention to diagnostic considerations in small biopsy specimens.
@@ -35,11 +37,13 @@ _Microscopic Description:_
 
 The biopsy specimen showed fragments of lung parenchyma with alveolar structures and hyperplastic alveolar epithelium. There was prominent interstitial lymphocytic infiltration consistent with obstructive pneumonia. Additionally, areas of interstitial spindle cell proliferation were identified, accompanied by scattered epithelioid cells and surrounded by inflammatory necrotic tissue.
 
-**![](file:////Users/weixinjianhua/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg)  
-Figure 1: Low-power view showing spindle cell proliferation with inflammatory background (H.E. ×100) -  
-**![](file:////Users/weixinjianhua/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)
+<img width="100%"  alt="Snip20260226_41" src="https://github.com/user-attachments/assets/f1004913-bc11-4d15-a39e-08252c4d5221" />
 
-**Figure 2: High-power view demonstrating small, atypical spindle cells with subtle nuclear atypia (H.E. ×400)**
+Figure 1: Low-power view showing spindle cell proliferation with inflammatory background (H.E. ×100) -  
+
+<img width="100%"  alt="Snip20260226_42" src="https://github.com/user-attachments/assets/ddfec77d-e63d-485f-8049-51db802859fc" />
+
+Figure 2: High-power view demonstrating small, atypical spindle cells with subtle nuclear atypia (H.E. ×400)
 
 The target cells were small and spindle-shaped with subtle nuclear atypia. The cells exhibited elongated nuclei with mild hyperchromasia and inconspicuous nucleoli. Mitotic figures were present but not prominent. The overall impression was initially suggestive of an inflammatory necrotic lesion, and the possibility of reactive fibroblastic proliferation was considered.
 
@@ -64,9 +68,10 @@ The first panel of immunohistochemical stains yielded the following results:
 - Desmin: Negative
 
 - SMA (smooth muscle actin): Negative  
-![](file:////Users/weixinjianhua/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.jpg)
 
-**Figure 4: Immunohistochemistry panel showing CK(+), TTF-1(+), Napsin A(-), SMA(-)**
+<img width="100%"  alt="Snip20260226_47" src="https://github.com/user-attachments/assets/37e34b64-03e9-4a11-9306-940d55d601b5" />
+
+Figure 3: Immunohistochemistry panel showing CK(+), TTF-1(+), Napsin A(-), SMA(-)
 
 The immunohistochemical profile was perplexing. The positivity for CK and TTF-1 suggested epithelial origin and pulmonary differentiation, while the negativity for Napsin A, CK7, and squamous markers (CK5/6, P40) was atypical for conventional lung adenocarcinoma or squamous cell carcinoma. The negativity for SMA and Desmin argued against myofibroblastic differentiation.
 
@@ -84,9 +89,10 @@ Given the diagnostic uncertainty, additional immunohistochemical stains were per
 
 - ALK: Negative
 
-**![](file:////Users/weixinjianhua/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image008.jpg)**
+<img width="100%"  alt="Snip20260226_54" src="https://github.com/user-attachments/assets/43a9306e-26c5-4059-ad0f-ec8abe94f9d0" />
 
-**Figure 5: Supplementary immunohistochemistry showing Vimentin(+), CAM5.2(+), p53(+), ALK(-)**
+
+Figure 4: Supplementary immunohistochemistry showing Vimentin(+), CAM5.2(+), p53(+), ALK(-)
 
 _Final Diagnosis:_
 
