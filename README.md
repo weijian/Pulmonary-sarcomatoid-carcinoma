@@ -1,6 +1,10 @@
-# Pulmonary-sarcomatoid-carcinoma
 # Pulmonary Sarcomatoid Carcinoma Diagnosed on Needle Biopsy: A Case Report and Review of Diagnostic Pitfalls
+## Jan Wei
+Department of Pathology, Guangzhou Huayin Medical Laboratory Center, Guangzhou, China
 
+Correspondence: Jan Wei, BM, Associate Chief Physician 
+Department of Pathology Guangzhou Huayin Medical Laboratory Center Guangzhou, Guangdong Province, China
+ Email: [weijianhualai@gmail.com]
 **Abstract**
 
 Pulmonary sarcomatoid carcinoma (PSC) is a rare and aggressive subtype of non-small cell lung cancer (NSCLC), accounting for approximately 0.1-0.4% of all lung malignancies. The diagnosis of PSC on small biopsy specimens presents significant challenges due to its morphological overlap with reactive spindle cell proliferations and other mesenchymal neoplasms. We report a case of a 74-year-old woman who presented with a left upper lobe lung mass initially misinterpreted as an inflammatory necrotic lesion on needle biopsy. The tumor was composed of small, atypical spindle cells with subtle nuclear atypia embedded in an inflammatory and necrotic background. Initial immunohistochemistry revealed CK(+), TTF-1(+), Napsin A(-), CK7(-), and SMA(-), which raised diagnostic uncertainty. Supplementary immunohistochemical staining demonstrated Vimentin(+), CAM5.2(+), p53(+, 60%), and ALK(-), supporting the diagnosis of pulmonary sarcomatoid carcinoma with adenocarcinoma differentiation. This case highlights the morphological pitfalls in diagnosing PSC on needle biopsy and emphasizes the critical role of a comprehensive immunohistochemical panel in establishing the correct diagnosis. We review the current WHO classification, NCCN guidelines, and recent literature on the immunohistochemical and molecular characteristics of PSC, with particular attention to diagnostic considerations in small biopsy specimens.
