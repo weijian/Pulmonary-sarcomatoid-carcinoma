@@ -278,7 +278,7 @@ Pulmonary sarcomatoid carcinoma represents a diagnostic challenge, particularly 
 
 **Acknowledgments**
 
-[To be completed by authors]
+Thanks to the patient for allowing us to share her case for educational purposes. We also acknowledge the pathology department staff for their technical assistance in preparing the histologic sections and performing immunohistochemical staining.
 
 **Conflict of Interest**
 
